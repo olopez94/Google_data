@@ -43,8 +43,17 @@ Then the data was cleaned to make sure it was complete, correct, and relevant. C
 
 ![text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/4PjksQFESZK45LEBRCmScw_877ecbe661d24dfbb3a768cf90c742a7_DA_C1M1L2R1_D.png?expiry=1628208000000&hmac=CL4cnLrvDb2Wtqag9acxdf1T1gZ3gGtCwQ-likKEH8w)
 
+<p>
+From the completed surveys, the data analysts would discover: </p>
 
 
+<ul>
+  <li>that a new employee’s experience with certain processes was a key indicator of overall job satisfaction. </li>
+  <li>employees who experienced a long and complicated hiring process were most likely to leave the company.</li>
+  <li>Employees who experienced an efficient and transparent evaluation and feedback process were most likely to remain with the company.</li>
+</ul>
+
+<p> The group knew it was important to document exactly what they found in the analysis, no matter what the results.  </p>
 
 
 
