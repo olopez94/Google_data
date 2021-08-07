@@ -2,7 +2,7 @@
 
 <p>The entire program has eight courses. This is the first course and it covers about five weeks of material. </p>
 
-![text](https://imgur.com/a/tTXt9wO)
+![text](https://i.imgur.com/nnmtIXH.png)
 
 
 <h2>Course content</h2>
