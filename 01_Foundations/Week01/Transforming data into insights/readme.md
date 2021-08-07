@@ -55,5 +55,13 @@ From the completed surveys, the data analysts would discover: </p>
 
 <p> The group knew it was important to document exactly what they found in the analysis, no matter what the results.  </p>
 
+![text](https://i.imgur.com/4VS7RYE.png)
+
+<p>Just as they made sure the data was carefully protected, the analysts were also careful sharing the report.</p>
+
+
+![text](https://i.imgur.com/rYDTGvH.png)
+
+<p>The last stage of the process for the team of analysts was to work with leaders within their company and decide how best to implement changes and take actions based on the findings. </p>
 
 
