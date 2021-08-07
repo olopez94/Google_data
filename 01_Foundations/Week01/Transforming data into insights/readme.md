@@ -64,4 +64,4 @@ From the completed surveys, the data analysts would discover: </p>
 
 <p>The last stage of the process for the team of analysts was to work with leaders within their company and decide how best to implement changes and take actions based on the findings. </p>
 
-
+<a href='https://online.hbs.edu/blog/post/business-analytics-examples' target="_blank">text</a>
