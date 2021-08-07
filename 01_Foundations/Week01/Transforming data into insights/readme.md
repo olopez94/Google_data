@@ -64,4 +64,34 @@ From the completed surveys, the data analysts would discover: </p>
 
 <p>The last stage of the process for the team of analysts was to work with leaders within their company and decide how best to implement changes and take actions based on the findings. </p>
 
-<a href='https://online.hbs.edu/blog/post/business-analytics-examples' target="_blank">text</a>
+<h2><a href='https://online.hbs.edu/blog/post/business-analytics-examples' target='_blank'>4 EXAMPLES OF BUSINESS ANALYTICS IN ACTION</a></h2>
+
+<p>
+  <b>business analytics</b> is “the use of math and statistics to derive meaning from data in order to make better business decisions.”
+  </p>
+ 
+ <p>There are four key types of business analytics</p>
+ 
+<ul>
+  <li><b>Descriptive analytics</b> is the interpretation of historical data to identify trends and patterns</li>
+  <li><b>predictive analytics</b> centers on taking that information and using it to forecast future outcomes</li>
+  <li><b>Diagnostic analytics</b> can be used to identify the root cause of a problem.</li>
+  <li><b>prescriptive analytics</b> testing and other techniques are employed to determine which outcome will yield the best result in a given scenario.</li>
+ </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
