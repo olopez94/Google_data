@@ -12,4 +12,4 @@
 
 <h1>How data informs better decisions</h1>
 
-<p><b>Data-driven decision-making:</b> Using facts to guide business strategy.</p>
+<p><b>Data-driven decision-making:</b> Using facts to guide business strategy.</p> <p>the first step in data-driven decision-making is figuring out the business need.</p>
