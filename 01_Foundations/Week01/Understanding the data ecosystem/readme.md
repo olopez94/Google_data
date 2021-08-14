@@ -33,3 +33,13 @@
 
 
 <h1>Origins of the data analysis process</h1>
+
+<p><b>data analysis life cycle</b>—the process of going from data to decision. Data goes through several phases as it gets created, consumed, tested, processed, and reused. With a life cycle model, all key team members can drive success by planning work both up front and at the end of the data analysis process.</p>
+
+<p>There might not be one single architecture that’s uniformly followed by every data analysis expert, but there are some shared fundamentals in every data analysis process.</p>
+
+<p>The process presented as part of the Google Data Analytics Certificate is one that will be valuable to you as you keep moving forward in your career:</p>
+
+<ol>
+  <li>asdasd</li>
+  </ol>
