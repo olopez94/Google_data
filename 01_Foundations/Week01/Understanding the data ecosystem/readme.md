@@ -24,4 +24,10 @@
 
 <p>Try asking yourself these questions about a project to help find the perfect balance:</p>
 
+<ul>
+  <li>What kind of results are needed?</li>
+  <li>Who will be informed?</li>
+  <li>Am I answering the question being asked?</li>
+  <li>How quickly does a decision need to be made?</li>
+</ul>
 
