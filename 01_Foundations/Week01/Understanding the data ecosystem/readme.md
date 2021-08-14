@@ -41,5 +41,10 @@
 <p>The process presented as part of the Google Data Analytics Certificate is one that will be valuable to you as you keep moving forward in your career:</p>
 
 <ol>
-  <li>asdasd</li>
-  </ol>
+  <li>Ask: Business Challenge/Objective/Question</li>
+  <li>Prepare: Data generation, collection, storage, and data management</li>
+  <li>Process: Data cleaning/data integrity</li>
+  <li>Analyze: Data exploration, visualization, and analysis</li>
+  <li>Share: Communicating and interpreting results </li>
+  <li>Act: Putting your insights to work to solve the problem</li>
+</ol>
