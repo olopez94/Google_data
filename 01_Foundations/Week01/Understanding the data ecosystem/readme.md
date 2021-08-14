@@ -15,3 +15,6 @@
 <p><b>Data-driven decision-making:</b> Using facts to guide business strategy.</p> <p>the first step in data-driven decision-making is figuring out the business need.</p>
 
 
+<h1>Data and gut instinct</h1>
+
+<p>Therefore, it's essential that data analysts focus on the data to ensure they make informed decisions. If you ignore data by preferring to make decisions based on your own experience, your decisions may be biased.</p>
