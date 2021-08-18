@@ -10,6 +10,7 @@
 <ol>
   <li>Curiosity</li>
   <li>Understanding context</li>
+  <p><b>Context</b> is the condition in which something exists or happens. </p>
   <li>Having a technical mindset</li>
   <li>Data design</li>
   <li>Data strategy</li>
