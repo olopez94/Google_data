@@ -7,7 +7,13 @@
 
 <p><b>Analytical skills</b> are qualities and characteristics associated with solving problems using facts. </p>
 
-
+<ol>
+  <li>Curiosity</li>
+  <li>Understanding context</li>
+  <li>Having a technical mindset</li>
+  <li>Data design</li>
+  <li>Data strategy</li>
+</ol>
 
 
 
