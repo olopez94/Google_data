@@ -12,6 +12,7 @@
   <li>Understanding context</li>
   <p><b>Context</b> is the condition in which something exists or happens. </p>
   <li>Having a technical mindset</li>
+  <p><b>A technical mindset</b>  involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.</p>
   <li>Data design</li>
   <li>Data strategy</li>
 </ol>
