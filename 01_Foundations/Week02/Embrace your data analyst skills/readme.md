@@ -16,6 +16,7 @@
   <li>Data design</li>
   <p>How you organize information</p>
   <li>Data strategy</li>
+  <p>The management of the people, processes and tools used in data analysis</p>
 </ol>
 
 
