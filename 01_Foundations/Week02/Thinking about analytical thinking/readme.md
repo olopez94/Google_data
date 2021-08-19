@@ -19,3 +19,6 @@
   <li>Big-picture and detail-oriented thinking</li>
   <p> This means being able to see the big picture as well as the details.  If you only focus on individual pieces, you wouldn't be able to see past that, which is why big-picture thinking is so important. It helps you zoom out and see possibilities and opportunities. </p>
   </ol>
+
+
+<h1>Exploring core analytical skills</h1>
