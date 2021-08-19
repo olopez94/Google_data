@@ -20,7 +20,15 @@
 </ol>
 
 
+<h1>Data analyst skills</h1>
 
-
-
+<ul>
+  <li>Analytical Skills</li>
+  <p>The qualities and characteristics associated with solvinf problems using facts.</p>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
