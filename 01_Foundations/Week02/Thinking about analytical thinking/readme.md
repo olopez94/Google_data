@@ -9,6 +9,7 @@
 
 <ol>
   <li>Visualization</li>
+  <p>The graphical representation of information. Visualization is important because visuals can help data analysts understand and explain information more effectively. </p>
   <li>Strategy</li>
   <li>Problem-orientation</li>
   <li>Correlation</li>
