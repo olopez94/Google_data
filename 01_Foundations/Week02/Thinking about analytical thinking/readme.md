@@ -11,7 +11,11 @@
   <li>Visualization</li>
   <p>The graphical representation of information. Visualization is important because visuals can help data analysts understand and explain information more effectively. </p>
   <li>Strategy</li>
+  <p>Strategizing helps data analysts see what they want to achieve with the data and how they can get there. Strategy also helps improve the quality and usefulness of the data we collect. By strategizing, we know all our data is valuable and can help us accomplish our goals. </p>
   <li>Problem-orientation</li>
+  <p> Data analysts use a problem- oriented approach in order to identify, describe, and solve problems. </p>
   <li>Correlation</li>
+  <p>Being able to identify a correlation between two or more pieces of data. A correlation is like a relationship. Correlation does not equal causation.</p>
   <li>Big-picture and detail-oriented thinking</li>
+  <p> This means being able to see the big picture as well as the details.  If you only focus on individual pieces, you wouldn't be able to see past that, which is why big-picture thinking is so important. It helps you zoom out and see possibilities and opportunities. </p>
   </ol>
