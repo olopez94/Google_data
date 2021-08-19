@@ -33,5 +33,11 @@
 
 <p><a href="https://www.fastcompany.com/1669738/to-get-to-the-root-of-a-hard-problem-just-ask-why-five-times"> A simple way to wrap your head around root causes is with the process called the Five Whys. In the Five Whys you ask "why" five times to reveal the root cause. </a></p>
 
+<ul>
+  <li>Gap analysis</li>
+  A method for examining and evaluating how a process works currently in order to get where you want to be in the future. 
+  
+  'Where are the gaps in our process?'
+</ul>
 
 
