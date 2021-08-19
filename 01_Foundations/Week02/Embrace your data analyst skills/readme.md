@@ -25,7 +25,8 @@
 <ul>
   <li>Analytical Skills</li>
   <p>The qualities and characteristics associated with solvinf problems using facts.</p>
-  <li></li>
+  <li>Technical mindset</li>
+  <p>The analytical skill that involves breaking processes down into smaller steps and working with them in an orderly, logical way.</p>
   <li></li>
   <li></li>
   <li></li>
