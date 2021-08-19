@@ -26,7 +26,12 @@
 <p>why is it important to think in different ways? Well because in data analysis, solutions are almost never right in front of you. You need to think critically to find out the right questions to ask.</p>
 
 
+<ul>
+  <li>Root cause</li>
+  the reason why a problem occurs.
+  </ul>
 
+<p><a href="https://www.fastcompany.com/1669738/to-get-to-the-root-of-a-hard-problem-just-ask-why-five-times"> A simple way to wrap your head around root causes is with the process called the Five Whys. In the Five Whys you ask "why" five times to reveal the root cause. </a></p>
 
 
 
