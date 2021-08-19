@@ -27,8 +27,10 @@
   <p>The qualities and characteristics associated with solvinf problems using facts.</p>
   <li>Technical mindset</li>
   <p>The analytical skill that involves breaking processes down into smaller steps and working with them in an orderly, logical way.</p>
-  <li></li>
-  <li></li>
+  <li>Data desing</li>
+  <p>The analytical skill that involves how you organize information.</p>
+  <li>Understanding Context</li>
+  <p>The analytical skill that has to do with how you group things into categories.</p>
   <li></li>
   <li></li>
 </ul>
