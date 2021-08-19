@@ -22,3 +22,11 @@
 
 
 <h1>Exploring core analytical skills</h1>
+
+<p>why is it important to think in different ways? Well because in data analysis, solutions are almost never right in front of you. You need to think critically to find out the right questions to ask.</p>
+
+
+
+
+
+
