@@ -38,6 +38,8 @@
   A method for examining and evaluating how a process works currently in order to get where you want to be in the future. 
   
   'Where are the gaps in our process?'
+  
+  'What did we not consider before?'
 </ul>
 
 
