@@ -31,7 +31,8 @@
   <p>The analytical skill that involves how you organize information.</p>
   <li>Understanding Context</li>
   <p>The analytical skill that has to do with how you group things into categories.</p>
-  <li></li>
+  <li>Data strategy</li>
+  <p>The analytical skill that involves managing the processes and tools used in data analysis.</p>
   <li></li>
 </ul>
 
