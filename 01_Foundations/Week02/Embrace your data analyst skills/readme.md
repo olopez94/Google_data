@@ -33,6 +33,5 @@
   <p>The analytical skill that has to do with how you group things into categories.</p>
   <li>Data strategy</li>
   <p>The analytical skill that involves managing the processes and tools used in data analysis.</p>
-  <li></li>
 </ul>
 
