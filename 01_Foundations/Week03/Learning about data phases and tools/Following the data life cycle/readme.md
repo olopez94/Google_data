@@ -39,6 +39,7 @@
  
  <p><a href="https://www.fws.gov/data/life-cycle"> U.S. Fish and Wildlife Service</a></p>
 
+ <p><a href="https://www.usgs.gov/products/data-and-tools/data-management/data-lifecycle"> The U.S. Geological Survey (USGS)</a></p>
 
 <p><b>Database</b>
   
