@@ -18,4 +18,17 @@
 <p> Data analysis tools. These include spreadsheets, databases, query languages, and visualization software.</p>
 
 
+<p>The life cycle of data is</p> plan, capture, manage, analyze, archive and destroy
+
+<ol>
+  <li>Plan</li>
+  During planning, a business decides what kind of data it needs, how it will be managed throughout its life cycle, who will be responsible for it, and the optimal outcomes.
+  <li>Capture</li>
+  <li>Manage</li>
+  <li>Analyze</li>
+  <li>Archive</li>
+  <li>Destroy</li>
+ </ol>
+
+
 
