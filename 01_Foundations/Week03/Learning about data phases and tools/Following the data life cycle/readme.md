@@ -43,6 +43,8 @@
 
  <p><a href="https://sfmagazine.com/post-entry/july-2018-the-data-life-cycle/"> Financial institutions</a></p>
 
+ <p><a href="https://online.hbs.edu/blog/post/data-life-cycle"> Harvard Business School (HBS)</a></p>
+
 <p><b>Database</b>
   
   A collection of data stored in a computer system.
