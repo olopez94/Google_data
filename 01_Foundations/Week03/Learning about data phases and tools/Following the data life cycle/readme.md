@@ -31,5 +31,9 @@
   <li>Destroy</li>
  </ol>
 
+<p><b>Database</b>
+  
+  A collection of data stored in a computer system.
+  </p>
 
 
