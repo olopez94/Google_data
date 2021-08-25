@@ -41,6 +41,8 @@
 
  <p><a href="https://www.usgs.gov/products/data-and-tools/data-management/data-lifecycle"> The U.S. Geological Survey (USGS)</a></p>
 
+ <p><a href="https://sfmagazine.com/post-entry/july-2018-the-data-life-cycle/"> Financial institutions</a></p>
+
 <p><b>Database</b>
   
   A collection of data stored in a computer system.
