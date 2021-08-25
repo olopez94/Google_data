@@ -30,7 +30,9 @@
   <li>Analyze</li>
   This is where data analysts really shine. In this phase, the data is used to solve problems, make great decisions, and support business goals.
   <li>Archive</li>
+  Archiving means storing data in a place where it's still available, but may not be used again. 
   <li>Destroy</li>
+  To destroy it, the company would use a secure data erasure software. If there were any paper files, they would be shredded too. This is important for protecting a company's private information, as well as private data about its customers. 
  </ol>
 
 <p><b>Database</b>
