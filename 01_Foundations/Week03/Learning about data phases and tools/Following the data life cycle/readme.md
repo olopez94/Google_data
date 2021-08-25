@@ -28,6 +28,7 @@
   <li>Manage</li>
    How we care for our data, how and where it's stored, the tools used to keep it safe and secure, and the actions taken to make sure that it's maintained properly.
   <li>Analyze</li>
+  This is where data analysts really shine. In this phase, the data is used to solve problems, make great decisions, and support business goals.
   <li>Archive</li>
   <li>Destroy</li>
  </ol>
