@@ -24,6 +24,7 @@
   <li>Plan</li>
   During planning, a business decides what kind of data it needs, how it will be managed throughout its life cycle, who will be responsible for it, and the optimal outcomes.
   <li>Capture</li>
+  This is where data is collected from a variety of different sources and brought into the organization. One common method is getting data from outside resources.
   <li>Manage</li>
   <li>Analyze</li>
   <li>Archive</li>
