@@ -35,6 +35,7 @@
   To destroy it, the company would use a secure data erasure software. If there were any paper files, they would be shredded too. This is important for protecting a company's private information, as well as private data about its customers. 
  </ol>
  
+ <p> The rest of this reading provides a glimpse of how government, finance, and education institutions can view data life cycles a little differently.</p>
  
  <p><a href="https://www.fws.gov/data/life-cycle"> U.S. Fish and Wildlife Service</a></p>
 
