@@ -26,6 +26,7 @@
   <li>Capture</li>
   This is where data is collected from a variety of different sources and brought into the organization. One common method is getting data from outside resources.
   <li>Manage</li>
+   How we care for our data, how and where it's stored, the tools used to keep it safe and secure, and the actions taken to make sure that it's maintained properly.
   <li>Analyze</li>
   <li>Archive</li>
   <li>Destroy</li>
