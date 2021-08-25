@@ -34,6 +34,10 @@
   <li>Destroy</li>
   To destroy it, the company would use a secure data erasure software. If there were any paper files, they would be shredded too. This is important for protecting a company's private information, as well as private data about its customers. 
  </ol>
+ 
+ 
+ <p><a href="https://www.fws.gov/data/life-cycle"> U.S. Fish and Wildlife Service</a></p>
+
 
 <p><b>Database</b>
   
