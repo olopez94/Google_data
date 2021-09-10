@@ -10,6 +10,7 @@
   <li>Analyze</li>
   Analyzing the data you've collected involves using tools to transform and organize that information so that you can draw useful conclusions, make predictions, and drive informed decision-making.
   <li>Share</li>
+  How data analysts interpret results and share them with others to help stakeholders make effective data-driven decisions
   <li>Act</li>
 </ul>
 
