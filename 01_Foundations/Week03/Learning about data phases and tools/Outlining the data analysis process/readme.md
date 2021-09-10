@@ -6,7 +6,9 @@
   <li>Prepare</li>
   This is where data analysts collect and store data they'll use for the upcoming analysis process.
   <li>Process</li>
+   Here, data analysts find and eliminate any errors and inaccuracies that can get in the way of results. This usually means cleaning data, transforming it into a more useful format, combining two or more datasets to make information more complete and removing outliers, which are any data points that could skew the information.
   <li>Analyze</li>
+  Analyzing the data you've collected involves using tools to transform and organize that information so that you can draw useful conclusions, make predictions, and drive informed decision-making.
   <li>Share</li>
   <li>Act</li>
 </ul>
