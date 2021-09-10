@@ -21,6 +21,10 @@
   
   
 <h1>Molly: Example of the data process</h1>
-<p>You want to ask all of the right questions at the beginning of the engagement so that you better understand what your leaders and stakeholders need from this analysis </p>
+<p>You want to ask all of the right questions at the beginning of the engagement so that you better understand what your leaders and stakeholders need from this analysis.
+
+We need to be thinking about the type of data we need in order to answer the questions that we've set out to answer based on what we learned when we asked the right questions.
+
+</p>
 
 
