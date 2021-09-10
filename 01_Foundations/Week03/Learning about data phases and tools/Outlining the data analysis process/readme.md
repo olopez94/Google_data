@@ -10,8 +10,9 @@
   <li>Act</li>
 </ul>
 
-<ul>
-  <li>Stakeholders</li>
-  Poeple whohave invested time and resources into a project and areinterested in the outcome.
-</ul>
+
+
+<h2>Stakeholders</h2>
+  Poeple who have invested time and resources into a project and areinterested in the outcome.
+
 
