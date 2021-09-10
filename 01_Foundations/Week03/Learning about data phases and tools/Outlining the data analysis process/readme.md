@@ -9,3 +9,9 @@
   <li>Share</li>
   <li>Act</li>
 </ul>
+
+<ul>
+  <li>Stakeholders</li>
+  Poeple whohave invested time and resources into a project and areinterested in the outcome.
+</ul>
+
