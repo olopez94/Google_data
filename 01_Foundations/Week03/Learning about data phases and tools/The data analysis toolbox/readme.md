@@ -6,3 +6,6 @@
   <li>Query languages for databases</li>
   <li>Visualization tools</li>
   </ul?
+  
+  <h3>Formula</h3>
+  <p>A set of instructions that performs a specific calculation using the data in a spreadsheet.</p>
