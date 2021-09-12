@@ -5,7 +5,8 @@
   A spreadsheet is a digital worksheet. It stores, organizes, and sorts data. 
   <li>Query languages for databases</li>
   A computer programming language that allows you to retrive and manipulate data from a database.
-  <li>Visualization tools</li>
+  <li>Visualization tools & Data visualization</li>
+  The graphical representation of information.
 </ul>
   
   
