@@ -5,9 +5,13 @@
   A spreadsheet is a digital worksheet. It stores, organizes, and sorts data. 
   <li>Query languages for databases</li>
   <li>Visualization tools</li>
-  </ul?
+</ul>
   
   
-<h2>Formula</h2>
-  
-  <p>A set of instructions that performs a specific calculation using the data in a spreadsheet.</p>
+<h3>Formula</h3>
+<p>A set of instructions that performs a specific calculation using the data in a spreadsheet.</p>
+
+<h3>Function</h3>
+<p>A preset command that automatically performs a specific process or task using the data in a spreadsheet.</p>
+
+
