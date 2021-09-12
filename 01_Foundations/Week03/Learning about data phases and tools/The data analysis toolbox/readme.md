@@ -38,6 +38,11 @@
   
   <li>Visualization tools & Data visualization</li>
   Data analysts use a number of visualization tools, like graphs, maps, tables, charts, and more. Two popular visualization tools are Tableau and Looker.
+  
+   Tableau's simple drag-and-drop feature lets users create interactive graphs in dashboards and worksheets 
+  
+  Looker communicates directly with a database, allowing you to connect your data right to the visual tool you choose 
+  
 
 </ul>
   
