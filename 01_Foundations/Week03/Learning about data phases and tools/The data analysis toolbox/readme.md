@@ -7,5 +7,7 @@
   <li>Visualization tools</li>
   </ul?
   
-  <h3>Formula</h3>
+  
+<h2>Formula</h2>
+  
   <p>A set of instructions that performs a specific calculation using the data in a spreadsheet.</p>
