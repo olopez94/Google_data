@@ -19,4 +19,18 @@
 
 <h1> Key data analyst tools </h1>
 
+<ul>
+  <li>Spreadsheets</li>
+  Data analysts rely on spreadsheets to collect and organize data. 
+  
+  Collect, store, organize, and sort information
+  
+  
+  <li>Query languages for databases</li>
+  A computer programming language that allows you to retrive and manipulate data from a database.
+  <li>Visualization tools & Data visualization</li>
+  The graphical representation of information.
+</ul>
+  
+
 
