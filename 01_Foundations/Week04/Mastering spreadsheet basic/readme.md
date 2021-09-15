@@ -8,4 +8,8 @@ For example, in this spreadsheet, the word 'row' is in cell D3</p>
 
 
 <h3>Attribute</h3>
-<p>A characteristic or quality of data used to label a column in a table.</p>
+<p>A characteristic or quality of data used to label a column in a table. 
+
+More commonly, attributes are referred to as column names, column labels, headers, or the header row.</p>
+
+
