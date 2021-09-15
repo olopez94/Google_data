@@ -15,5 +15,7 @@ More commonly, attributes are referred to as column names, column labels, header
 <h3>Observation</h3>
 <p>All of the attributes for something contained in a row of a data table. </p>
 
+<h3>Formula</h3>
+<p>A set of instructions that performs a specific aciton using the data in a spreadsheet. </p>
 
 
