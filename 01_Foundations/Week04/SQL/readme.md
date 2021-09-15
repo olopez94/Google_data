@@ -44,6 +44,12 @@
 <img src='https://i.imgur.com/BWmklJp.png'>
 
 
+<p>The above query uses three commands to locate customers with the first name Tony.</p>
 
+<ol>
+  <li><b>SELECT</b> the columns named <b>customer_id, first_name,</b> and <b>last_name</b></li>
+  <li></li>
+  <li></li>
+</ol>
 
 
