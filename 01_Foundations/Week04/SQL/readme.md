@@ -28,6 +28,7 @@
 <ol>
   <li><b>SELECT</b> the column named <b>first_name</b></li>
   <li><b>FROM</b> a table named <b>customer_name</b> (in a dataset named <b>customer_data</b>)
+    
 (The dataset name is always followed by a dot, and then the table name.)</li>
   <li></li>
   </ol>
