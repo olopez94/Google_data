@@ -15,4 +15,5 @@
 <ul>
   <li>Use <b>SELECT</b> to choose the columns you want to return.</li>
   <li>Use <b>FROM</b> to choose the tables where the columns you want are located.</li>
+  <li>Use <b>WHERE</b> to filter for certain information.</li>
   </ul>
