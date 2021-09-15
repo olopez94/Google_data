@@ -6,3 +6,7 @@
 
 
 <img src='https://i.imgur.com/XPyZIGy.png'>
+
+<p>Every programming language, including SQL, follows a unique set of guidelines known as syntax. 
+  
+  Syntax is the predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement.</p>
