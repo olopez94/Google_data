@@ -38,3 +38,12 @@
  <p>If you are requesting multiple data fields from a table, you need to include these columns in your SELECT command. Each column is separated by a comma as shown below:</p>
 
 <img src='https://i.imgur.com/DUZtgJe.png'>
+
+<p>Here is an example of how it would appear in BigQuery:</p>
+
+<img src='https://i.imgur.com/BWmklJp.png'>
+
+
+
+
+
