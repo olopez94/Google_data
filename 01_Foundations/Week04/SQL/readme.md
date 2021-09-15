@@ -17,3 +17,16 @@
   <li>Use <b>FROM</b> to choose the tables where the columns you want are located.</li>
   <li>Use <b>WHERE</b> to filter for certain information.</li>
   </ul>
+
+
+<h2><b>Example of a query</b></h2>
+
+<img src='https://i.imgur.com/K9sxnVn.png'>
+
+<p>The above query uses three commands to locate customers with the first name Tony: </p>
+
+<ol>
+  <li><b>SELECT</b> the column named <b>first_name</b></li>
+  <li></li>
+  <li></li>
+  </ol>
