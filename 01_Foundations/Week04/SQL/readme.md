@@ -32,3 +32,7 @@
 (The dataset name is always followed by a dot, and then the table name.)</li>
   <li>But only return the data <b>WHERE</b> the first_name is <b>Tony</b></li>
   </ol>
+  
+  
+  
+ <p>If you are requesting multiple data fields from a table, you need to include these columns in your SELECT command. Each column is separated by a comma as shown below:</p>
