@@ -12,4 +12,8 @@ For example, in this spreadsheet, the word 'row' is in cell D3</p>
 
 More commonly, attributes are referred to as column names, column labels, headers, or the header row.</p>
 
+<h3>Observation</h3>
+<p>All of the attributes for something contained in a row of a data table. </p>
+
+
 
