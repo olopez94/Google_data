@@ -48,7 +48,8 @@
 
 <ol>
   <li><b>SELECT</b> the columns named <b>customer_id, first_name,</b> and <b>last_name</b></li>
-  <li></li>
+  <li>FROM a table named customer_name (in a dataset named customer_data)
+(The dataset name is always followed by a dot, and then the table name.)</li>
   <li></li>
 </ol>
 
