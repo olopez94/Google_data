@@ -53,4 +53,4 @@
   <li>But only return the data WHERE the first_name is Tony</li>
 </ol>
 
-
+<p> The only difference between this query and the previous one is that more data columns are selected.</p>
