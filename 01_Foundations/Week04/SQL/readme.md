@@ -59,3 +59,4 @@
 
 <img src="https://i.imgur.com/w10NAvf.png">
 
+<p>Notice that unlike the SELECT command that uses a comma to separate fields/variables/parameters, the WHERE command uses the AND statement to connect conditions.</p>
