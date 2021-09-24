@@ -54,3 +54,8 @@
 </ol>
 
 <p> The only difference between this query and the previous one is that more data columns are selected.</p>
+
+<p>If you have multiple conditions in your WHERE clause, they may be written like this:</p>
+
+<img src="https://i.imgur.com/w10NAvf.png">
+
