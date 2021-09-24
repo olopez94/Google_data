@@ -50,7 +50,7 @@
   <li><b>SELECT</b> the columns named <b>customer_id, first_name,</b> and <b>last_name</b></li>
   <li>FROM a table named customer_name (in a dataset named customer_data)
 (The dataset name is always followed by a dot, and then the table name.)</li>
-  <li></li>
+  <li>But only return the data WHERE the first_name is Tony</li>
 </ol>
 
 
