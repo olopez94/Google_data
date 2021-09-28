@@ -13,6 +13,7 @@
   
   While reviewing the data you notice a pattern among those who visit the company’s website most frequently: geography and larger amounts spent on purchases.</p>
   <li>Plan your visuals</li>
+  <p>You will want to create a data visualization that explains your findings quickly and effectively to your target audience</p>
   <li>Create your visuals</li>
 </ol>
 
