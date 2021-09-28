@@ -9,5 +9,11 @@
 
 <ol>
   <li>Explore the data for patterns</li>
-  <p>aasdasda</p>
+  <p>First, you ask your manager or the data owner for access to the current sales records and website analytics reports. 
+  
+  While reviewing the data you notice a pattern among those who visit the company’s website most frequently: geography and larger amounts spent on purchases.</p>
+  <li>Plan your visuals</li>
+  <li>Create your visuals</li>
 </ol>
+
+<h2></h2>
