@@ -8,3 +8,6 @@
 
 <h3>Problem</h3>
 <p>An obstacle or complication that needs to be worked out.</p>
+
+<h3>Business task</h3>
+<p>The question or problem data abalysis answers for a business.</p>
