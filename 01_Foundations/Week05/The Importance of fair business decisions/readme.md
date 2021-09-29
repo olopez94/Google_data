@@ -5,3 +5,6 @@
 
 <h3>Question</h3>
 <p>Designed to discover information</p>
+
+<h3>Problem</h3>
+<p>An obstacle or complication that needs to be worked out.</p>
