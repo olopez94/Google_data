@@ -15,6 +15,7 @@
   <li>Plan your visuals</li>
   <p>You will want to create a data visualization that explains your findings quickly and effectively to your target audience</p>
   <li>Create your visuals</li>
+  <p> Keep in mind that creating the right visualization for a presentation or to share with stakeholders is a process. It involves trying different visualization formats and making adjustments until you get what you are looking for. In this case, a mix of different visuals will best communicate your findings and turn your analysis into the most compelling story for stakeholders. </p>
 </ol>
 
 <h2></h2>
