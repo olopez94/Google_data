@@ -25,5 +25,6 @@
   <p>The built-in charts and graphs in spreadsheets made the process of creating visuals quick and easy. </p>
   <li>Visualization software (Tableau)</li>
   <p>Tableau is a popular data visualization tool that lets you pull data from nearly any system and turn it into compelling visuals or actionable insights. The platform offers built-in visual best practices, which makes analyzing and sharing data fast, easy, and (most importantly) useful.</p>
-  <li></li>
+  <li>Programming language (R with RStudio) </li>
+  <p>A lot of data analysts work with a programming language called R. Most people who work with R end up also using RStudio, an integrated developer environment (IDE), for their data visualization needs</p>
 </ul>
