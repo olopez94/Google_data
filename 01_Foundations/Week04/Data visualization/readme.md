@@ -18,4 +18,4 @@
   <p> Keep in mind that creating the right visualization for a presentation or to share with stakeholders is a process. It involves trying different visualization formats and making adjustments until you get what you are looking for. In this case, a mix of different visuals will best communicate your findings and turn your analysis into the most compelling story for stakeholders. </p>
 </ol>
 
-<h2></h2>
+<h2>Build your data visualization toolkit</h2>
