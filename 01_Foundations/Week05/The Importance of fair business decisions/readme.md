@@ -14,3 +14,7 @@
 
 
 <h1>Understanding data and fairness</h1>
+
+<h3>Fairness</h3>
+<p>Ensuring that your analysis doesn't create or reinforce bias</p>
+
