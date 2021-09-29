@@ -19,3 +19,10 @@
 </ol>
 
 <h2>Build your data visualization toolkit</h2>
+
+<ul>
+  <li>Spreadsheets (Microsoft Excel or Google Sheets)</li> 
+  <p>The built-in charts and graphs in spreadsheets made the process of creating visuals quick and easy. </p>
+  <li>Visualization software (Tableau)</li>
+  <li></li>
+</ul>
