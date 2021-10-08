@@ -20,3 +20,13 @@
  <li>Locate data in your database</li>
  <li>Create security measures to protect that data</li>
  </ul>
+
+<h3>3 PROCESS</h3>
+<p>Clean data is the best data and you will need to clean up your data to get rid of any possible errors, inaccuracies, or inconsistencies.</p>
+
+<ul>
+ <li>Using spreadsheet functions to find incorrectly entered data </li>
+ <li>Using SQL functions to check for extra spaces</li>
+ <li>Removing repeated entries</li>
+ <li>Checking as much as possible for bias in the data</li>
+ </ul>
