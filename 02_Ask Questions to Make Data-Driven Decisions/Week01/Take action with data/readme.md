@@ -42,5 +42,19 @@
 <h2>5 SHARE</h2>
 <p>Everyone shares their results differently so be sure to summarize your results with clear and enticing visuals of your analysis using data viz tools like graphs or dashboards.</p>
 
+<ul>
+ <li>Make better decisions</li>
+ <li>Make more informed decisions</li>
+ <li>Lead to stronger outcomes</li>
+ <li>Successfully communicate your findings</li>
+ </ul>
+ 
+<h2>6 ACT</h2>
+
+
+
+
+
+
 
 
