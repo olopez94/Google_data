@@ -21,7 +21,7 @@
  <li>Create security measures to protect that data</li>
  </ul>
 
-<h3>3 PROCESS</h3>
+<h2>3 PROCESS</h2>
 <p>Clean data is the best data and you will need to clean up your data to get rid of any possible errors, inaccuracies, or inconsistencies.</p>
 
 <ul>
@@ -30,3 +30,13 @@
  <li>Removing repeated entries</li>
  <li>Checking as much as possible for bias in the data</li>
  </ul>
+ 
+<h2>4 ANALYZE </h2>
+<p>You will want to think analytically about your data.</p>
+<ul>
+ <li>Perform calculations</li>
+ <li>Combine data from multiple sources</li>
+ <li>Create tables with your results</li>
+ </ul>
+
+
