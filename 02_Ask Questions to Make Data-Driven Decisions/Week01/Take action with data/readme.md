@@ -39,4 +39,8 @@
  <li>Create tables with your results</li>
  </ul>
 
+<h2>5 SHARE</h2>
+<p>Everyone shares their results differently so be sure to summarize your results with clear and enticing visuals of your analysis using data viz tools like graphs or dashboards.</p>
+
+
 
