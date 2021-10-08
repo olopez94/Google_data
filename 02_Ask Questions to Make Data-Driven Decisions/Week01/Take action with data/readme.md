@@ -16,7 +16,7 @@
 <h2>2 PREPARE</h2>
 <p>You will decide what data you need to collect in order to answer your questions and how to organize it so that it is useful.</p>
 <ul>
- <li></li>
- <li></li>
- <li></li>
+ <li>What metrics to measure</li>
+ <li>Locate data in your database</li>
+ <li>Create security measures to protect that data</li>
  </ul>
