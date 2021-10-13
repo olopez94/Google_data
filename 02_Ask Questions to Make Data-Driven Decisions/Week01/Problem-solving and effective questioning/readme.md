@@ -16,6 +16,6 @@
   <p>Recognizing broader concepts and trends from categorized data.</p>
   <li>Discovering connections</li>
   <p>Identifying similar challenges across different entities - and using data and insights to find common solutions.</p>
-  <li></li>
-  <p></p>
+  <li>Finding patterns</li>
+  <p>Using historical data about what happened in the past to understand how likely it is to happen again.</p>
   </ul>
