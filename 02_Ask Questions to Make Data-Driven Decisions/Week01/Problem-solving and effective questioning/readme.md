@@ -10,12 +10,12 @@
   <p>Using data to make informed decisions about how things may be in the future.</p>
   <li>Categorizing things</li>
   <p>Grouping data based on common features.</p>
-  <li></li>
-  <p></p>
-  <li></li>
-  <p></p>
-  <li></li>
-  <p></p>
+  <li>Spotting something unusual</li>
+  <p>Identifying data that is different from the norm.</p>
+  <li>Identifying themes</li>
+  <p>Recognizing broader concepts and trends from categorized data.</p>
+  <li>Discovering connections</li>
+  <p>Identifying similar challenges across different entities - and using data and insights to find common solutions.</p>
   <li></li>
   <p></p>
   </ul>
